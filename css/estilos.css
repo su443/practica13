@@ -1,0 +1,47 @@
+body{
+    color: green;
+    text-align: center;
+
+}
+
+.contenedor{
+    background: #1414EF;
+    color: #19EF13;
+    font-size: 20pt;
+    text-align: center;
+    padding: .3em;
+    border: 3px solid #EBEBF5;
+	margin: auto;
+}
+
+.contenido-header{
+	margin: auto;
+}
+
+.titulo{
+    color: green;
+    text-align: center;
+    padding: 10rem;
+    font-size: 40px;
+}
+.titulocentral{
+    background-position: center center;
+    width:1330px ;
+    min-height: 30rem;
+}
+
+{
+    text-align: center;
+    width:1330px ;
+}
+.texto{
+    text-align: auto;
+    margin: auto;
+}
+.casillas{
+    text-align: justify;
+}
+.btn {
+    float: none;
+    margin: 1rem;
+}
